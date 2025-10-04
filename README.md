@@ -5,7 +5,7 @@
 - 📆Created : march 2025
 - ✔Technologies : Html , Css , javascript ,Mui7 ,  BootStarp
 
-#### a full Responsive page for all breakpoints & This is a restaurant homepage that includes important sections for a restaurant such as reservations and reviews.##
+#### a full Responsive page for all breakpoints & This is a restaurant homepage that includes important sections for a restaurant such as reservations and reviews.
 
 # 📸 Screenshot
 [![1.png](https://i.postimg.cc/Jz7n9pbX/1.png)](https://postimg.cc/N5VBX7CG)
